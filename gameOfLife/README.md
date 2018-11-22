@@ -1,2 +1,5 @@
 # gameOfLife
-Game of Life (Swift)
+Game of Life 
+
+Convey's "Game of Life" for iOS.
+
